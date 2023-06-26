@@ -13,6 +13,10 @@ permalink: "/introduce/"
 ### Java
 <li>자바와 객체지향적 설계와 관련된 내용을 다루고 있습니다.</li>
 
+### Computer Science
+<li>자료구조, 알고리즘, 컴퓨터구조, 운영체제, 네트워크, 데이터베이스와 같은 CS기초지식들을 다루고 있습니다.
+</li>
+
 ### BaekJoon
 <li>백준 온라인 저지 사이트의 문제들을 Java 언어로 풀이한 내용을 다루고 있으며 추가로 <strong>교재:Do it! 알고리즘 코딩 테스트 &lt;자바편&gt;</strong>을 참고해 문제풀이를 하고 있습니다.
 </li>
@@ -22,10 +26,6 @@ permalink: "/introduce/"
 
 ### Blog
 <li>마크다운 문법, HTML 관련 기본적인 내용, 태그/속성 등 블로그 포스팅과 관련된 글을 다루고 있습니다.</li>
-
-### Computer Science
-<li>자료구조, 알고리즘, 컴퓨터구조, 운영체제, 네트워크, 데이터베이스와 같은 CS기초지식들을 다루고 있습니다.
-</li>
 
 ## About Me
 [저에 대해 궁금하시다면? 클릭!!](https://github.com/heebum99){: .btn .btn--primary}
